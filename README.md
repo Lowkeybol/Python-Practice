@@ -1,2 +1,2 @@
 # Python-Practice
-Python projects and learning
+old Python projects put into one repo (work in progress)
